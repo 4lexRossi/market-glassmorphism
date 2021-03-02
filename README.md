@@ -1,4 +1,4 @@
-﻿# market-glassmorphism
+﻿# example glassmorphism in a market place
 
 ### images
 
