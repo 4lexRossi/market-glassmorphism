@@ -97,6 +97,15 @@ section::after {
   font-weight: 600;
 }
 
+.container .card .imgBx span {
+  transition: 0.5s ease-in-out;
+  position: absolute;
+  top: 80px;
+  color: #fff;
+  font-weight: 600;
+  font-size: x-large;
+}
+
 .container .card .imgBx .tree{  
   top: 100px;
 }
